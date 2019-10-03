@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">蓝牙串口助手</string>
+    <string name="app_label">蓝牙串口助手</string>
+    <string name="bluetoothCheck">搜索设备中</string>
+    <string name="bluetoothWaitCheck">请选择一个要连接的设备</string>
+    <string name="BT_UUID"> "00001101–0000–1000–8000–00805F9B34FB"</string>
+</resources>

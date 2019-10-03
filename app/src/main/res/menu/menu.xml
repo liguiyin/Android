@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="连接"
+        android:id="@+id/connect"
+        app:showAsAction="always"/>
+    <item
+        android:title="断开"
+        android:id="@+id/disconnect"
+        app:showAsAction="always"/>
+    <item
+        android:title="打开蓝牙"
+        android:id="@+id/open_bluetooth"/>
+    <item
+        android:title="关闭蓝牙"
+        android:id="@+id/close_bluetooth"/>
+    <item
+        android:title="搜索蓝牙"
+        android:id="@+id/search_bluetooth"/>
+    <item
+        android:title="设置"
+        android:id="@+id/settings"/>
+</menu>
