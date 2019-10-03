@@ -33,7 +33,7 @@ import java.io.OutputStream;
 import java.util.UUID;
 
 public class MainActivity extends AppCompatActivity {
-    //计时变量
+    
     private int seconds = 0;
     //按钮含义
     private boolean running;     //计时标志位
